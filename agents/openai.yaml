@@ -1,0 +1,6 @@
+interface:
+  display_name: "English to Chinese Study"
+  short_description: "Translate English into Chinese and retain useful vocabulary"
+  default_prompt: "Use $english-to-chinese-study to translate this English into Chinese with one natural translation and useful vocabulary."
+policy:
+  allow_implicit_invocation: true
